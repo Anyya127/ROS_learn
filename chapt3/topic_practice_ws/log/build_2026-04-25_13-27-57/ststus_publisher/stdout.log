@@ -1,0 +1,26 @@
+running egg_info
+creating ../../build/ststus_publisher/status_publisher.egg-info
+writing ../../build/ststus_publisher/status_publisher.egg-info/PKG-INFO
+writing dependency_links to ../../build/ststus_publisher/status_publisher.egg-info/dependency_links.txt
+writing entry points to ../../build/ststus_publisher/status_publisher.egg-info/entry_points.txt
+writing requirements to ../../build/ststus_publisher/status_publisher.egg-info/requires.txt
+writing top-level names to ../../build/ststus_publisher/status_publisher.egg-info/top_level.txt
+writing manifest file '../../build/ststus_publisher/status_publisher.egg-info/SOURCES.txt'
+reading manifest file '../../build/ststus_publisher/status_publisher.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/ststus_publisher/status_publisher.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+creating /home/anyya/chapt3/topic_practice_ws/install/ststus_publisher/lib/python3.12/site-packages/status_publisher
+copying /home/anyya/chapt3/topic_practice_ws/build/ststus_publisher/build/lib/status_publisher/__init__.py -> /home/anyya/chapt3/topic_practice_ws/install/ststus_publisher/lib/python3.12/site-packages/status_publisher
+copying /home/anyya/chapt3/topic_practice_ws/build/ststus_publisher/build/lib/status_publisher/sys_status_pub.py -> /home/anyya/chapt3/topic_practice_ws/install/ststus_publisher/lib/python3.12/site-packages/status_publisher
+creating /home/anyya/chapt3/topic_practice_ws/install/ststus_publisher/lib/python3.12/site-packages/ststus_publisher
+copying /home/anyya/chapt3/topic_practice_ws/build/ststus_publisher/build/lib/ststus_publisher/__init__.py -> /home/anyya/chapt3/topic_practice_ws/install/ststus_publisher/lib/python3.12/site-packages/ststus_publisher
+copying /home/anyya/chapt3/topic_practice_ws/build/ststus_publisher/build/lib/ststus_publisher/sys_status_pub.py -> /home/anyya/chapt3/topic_practice_ws/install/ststus_publisher/lib/python3.12/site-packages/ststus_publisher
+byte-compiling /home/anyya/chapt3/topic_practice_ws/install/ststus_publisher/lib/python3.12/site-packages/status_publisher/__init__.py to __init__.cpython-312.pyc
+byte-compiling /home/anyya/chapt3/topic_practice_ws/install/ststus_publisher/lib/python3.12/site-packages/status_publisher/sys_status_pub.py to sys_status_pub.cpython-312.pyc
+byte-compiling /home/anyya/chapt3/topic_practice_ws/install/ststus_publisher/lib/python3.12/site-packages/ststus_publisher/__init__.py to __init__.cpython-312.pyc
+byte-compiling /home/anyya/chapt3/topic_practice_ws/install/ststus_publisher/lib/python3.12/site-packages/ststus_publisher/sys_status_pub.py to sys_status_pub.cpython-312.pyc
+running install_data

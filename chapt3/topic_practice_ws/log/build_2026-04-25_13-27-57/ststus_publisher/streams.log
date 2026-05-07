@@ -1,0 +1,29 @@
+[0.377s] Invoking command in '/home/anyya/chapt3/topic_practice_ws/src/status_publisher': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/anyya/chapt3/topic_practice_ws/build/ststus_publisher/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/anyya/chapt3/topic_practice_ws/install/ststus_publisher/lib/python3.12/site-packages:/home/anyya/chapt3/topic_practice_ws/install/statu_interfaces/lib/python3.12/site-packages:/home/anyya/chapt3/topic_practice_ws/install/ststus_publisher/lib/python3.12/site-packages:/opt/ros/jazzy/lib/python3.12/site-packages /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ststus_publisher build --build-base /home/anyya/chapt3/topic_practice_ws/build/ststus_publisher/build install --record /home/anyya/chapt3/topic_practice_ws/build/ststus_publisher/install.log --single-version-externally-managed install_data
+[0.501s] running egg_info
+[0.501s] creating ../../build/ststus_publisher/status_publisher.egg-info
+[0.509s] writing ../../build/ststus_publisher/status_publisher.egg-info/PKG-INFO
+[0.509s] writing dependency_links to ../../build/ststus_publisher/status_publisher.egg-info/dependency_links.txt
+[0.509s] writing entry points to ../../build/ststus_publisher/status_publisher.egg-info/entry_points.txt
+[0.509s] writing requirements to ../../build/ststus_publisher/status_publisher.egg-info/requires.txt
+[0.509s] writing top-level names to ../../build/ststus_publisher/status_publisher.egg-info/top_level.txt
+[0.509s] writing manifest file '../../build/ststus_publisher/status_publisher.egg-info/SOURCES.txt'
+[0.526s] reading manifest file '../../build/ststus_publisher/status_publisher.egg-info/SOURCES.txt'
+[0.526s] adding license file 'LICENSE'
+[0.526s] writing manifest file '../../build/ststus_publisher/status_publisher.egg-info/SOURCES.txt'
+[0.526s] running build
+[0.526s] running build_py
+[0.526s] running install
+[0.530s] running install_lib
+[0.538s] creating /home/anyya/chapt3/topic_practice_ws/install/ststus_publisher/lib/python3.12/site-packages/status_publisher
+[0.538s] copying /home/anyya/chapt3/topic_practice_ws/build/ststus_publisher/build/lib/status_publisher/__init__.py -> /home/anyya/chapt3/topic_practice_ws/install/ststus_publisher/lib/python3.12/site-packages/status_publisher
+[0.538s] copying /home/anyya/chapt3/topic_practice_ws/build/ststus_publisher/build/lib/status_publisher/sys_status_pub.py -> /home/anyya/chapt3/topic_practice_ws/install/ststus_publisher/lib/python3.12/site-packages/status_publisher
+[0.539s] creating /home/anyya/chapt3/topic_practice_ws/install/ststus_publisher/lib/python3.12/site-packages/ststus_publisher
+[0.539s] copying /home/anyya/chapt3/topic_practice_ws/build/ststus_publisher/build/lib/ststus_publisher/__init__.py -> /home/anyya/chapt3/topic_practice_ws/install/ststus_publisher/lib/python3.12/site-packages/ststus_publisher
+[0.539s] copying /home/anyya/chapt3/topic_practice_ws/build/ststus_publisher/build/lib/ststus_publisher/sys_status_pub.py -> /home/anyya/chapt3/topic_practice_ws/install/ststus_publisher/lib/python3.12/site-packages/ststus_publisher
+[0.539s] byte-compiling /home/anyya/chapt3/topic_practice_ws/install/ststus_publisher/lib/python3.12/site-packages/status_publisher/__init__.py to __init__.cpython-312.pyc
+[0.539s] byte-compiling /home/anyya/chapt3/topic_practice_ws/install/ststus_publisher/lib/python3.12/site-packages/status_publisher/sys_status_pub.py to sys_status_pub.cpython-312.pyc
+[0.539s] byte-compiling /home/anyya/chapt3/topic_practice_ws/install/ststus_publisher/lib/python3.12/site-packages/ststus_publisher/__init__.py to __init__.cpython-312.pyc
+[0.539s] byte-compiling /home/anyya/chapt3/topic_practice_ws/install/ststus_publisher/lib/python3.12/site-packages/ststus_publisher/sys_status_pub.py to sys_status_pub.cpython-312.pyc
+[0.540s] running install_data
+[0.540s] error: can't copy 'resource/status_publisher': doesn't exist or not a regular file
+[0.550s] Invoked command in '/home/anyya/chapt3/topic_practice_ws/src/status_publisher' returned '1': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/anyya/chapt3/topic_practice_ws/build/ststus_publisher/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/anyya/chapt3/topic_practice_ws/install/ststus_publisher/lib/python3.12/site-packages:/home/anyya/chapt3/topic_practice_ws/install/statu_interfaces/lib/python3.12/site-packages:/home/anyya/chapt3/topic_practice_ws/install/ststus_publisher/lib/python3.12/site-packages:/opt/ros/jazzy/lib/python3.12/site-packages /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ststus_publisher build --build-base /home/anyya/chapt3/topic_practice_ws/build/ststus_publisher/build install --record /home/anyya/chapt3/topic_practice_ws/build/ststus_publisher/install.log --single-version-externally-managed install_data
